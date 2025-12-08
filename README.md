@@ -1,4 +1,3 @@
-## HTML
 # 💻 Front-End Web Development Projects (HTML, CSS, & JavaScript)
 
 This repository focuses on web development projects built using the foundational triad: **HTML, CSS, and vanilla JavaScript**. These projects are perfect for mastering core front-end concepts, DOM manipulation, and responsive design without the complexity of modern frameworks or server-side languages.
