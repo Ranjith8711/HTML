@@ -65,56 +65,49 @@ https://ranjith2025.neocities.org/PROJECTS/Network%20Speed%20Test/in
 
 ---
 
-### 10. OS
-
-**DEMO LINK:**
-https://ranjith2025.neocities.org/PROJECTS/Os%20project/in
-
----
-
-### 11. PC Repair
+### 10. PC Repair
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/PC%20Repair/in
 
 ---
 
-### 12. Project Synesthesia
+### 11. Project Synesthesia
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Project%20Synesthesia/in
 
 ---
 
-### 13. Rotate & Flip Image Tool
+### 12. Rotate & Flip Image Tool
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Rotate%20&%20Flip%20Image/in
 
 ---
 
-### 14. Smart Learning Scheduler
+### 13. Smart Learning Scheduler
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Smart%20Learning%20Scheduler/in
 
 ---
 
-### 15. Student Data Collection
+### 14. Student Data Collection
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Student%20Data%20Collection/
 
 ---
 
-### 16. Student QR Form
+### 15. Student QR Form
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Student%20QR%20Form/
 
 ---
 
-### 17. WorkFlow
+### 16. WorkFlow
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/work%20management%20dashboard/
