@@ -1,4 +1,4 @@
-# 🚀 My Projects Collection  (HTML AND CSS AND JS )
+# 🚀 My Projects Collection  (HTML ,AND ,CSS ,AND JS.... )
 
 ## 📌 Projects List   
 
