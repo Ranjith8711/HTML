@@ -2,7 +2,7 @@
 
 ## 📌 Projects List   
 
-### 1. Angry Birds
+### 1. Angry Birds   
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Angry%20Birds/Bird
