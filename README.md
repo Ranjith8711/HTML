@@ -59,17 +59,11 @@ https://ranjith2025.neocities.org/PROJECTS/Smart%20Learning%20Scheduler/in
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Student%20Data%20Collection/
 ---
-
 ### 15. Student QR Form
-
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Student%20QR%20Form/
-
 ---
-
 ### 16. WorkFlow
-
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/work%20management%20dashboard/
-
 ---
