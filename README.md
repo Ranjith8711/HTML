@@ -6,35 +6,22 @@
 
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Angry%20Birds/Bird
-
 ---
-
 ### 2. Black Hole Login
-
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Black%20Hole%20Login/black_hole
-  
 ---
-
 ### 3. Fruit Ninja
-
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Fruit%20Ninja/Fruit%20Ninja
-
 ---
-
 ### 4. Image Editor Pro
-
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Image%20Editor%20Pro/in
-
 ---
-
 ### 5. Image to PDF Converter
-
 **DEMO LINK:**
 https://ranjith2025.neocities.org/PROJECTS/Image%20to%20PDF%20Converter/in
-
 ---
 
 ### 6. LavaType Racer
